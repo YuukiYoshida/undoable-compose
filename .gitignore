@@ -1,0 +1,71 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+*.bak
+*.swp
+
+# Kotlin
+*.class
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keystore / GPG
+*.jks
+*.keystore
+private-key.asc
+secring.gpg
+
+# Local properties
+local.properties
+*.local
+*.env
+
+# Distribution
+*.apk
+*.aar
+
+# Test reports
+/test-results/
+/test-report/
+
+# Misc
+*.log
+*.tmp
+*.orig
+
+# Caches
+.cache/
+out/
+
+# Jetpack Compose Preview cache
+**/uiModeSnapshot/
+
+# VSCode
+.vscode/
